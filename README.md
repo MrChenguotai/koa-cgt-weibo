@@ -1,1 +1,2 @@
-cgt
+#koa-cgt-weibo
+author Atai
